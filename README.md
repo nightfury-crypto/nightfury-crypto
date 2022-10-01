@@ -16,7 +16,7 @@ I'm `KARNAIL SINGH CHOUDHARY`.<br>I just dived into opensource and learning git 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nightfury-crypto&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-[![@ig_toothless__'s Holopin board](https://holopin.io/@ig_toothless__)
+[![@ig_toothless__'s Holopin board](https://holopin.io/api/user/board?user=ig_toothless__)](https://holopin.io/@ig_toothless__)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
